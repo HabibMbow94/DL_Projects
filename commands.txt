@@ -1,0 +1,4 @@
+$ python3 -m venv project
+$ project/bin/activate
+deactivate
+$ pip list
