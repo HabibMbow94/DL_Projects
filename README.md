@@ -1,8 +1,8 @@
 # Problem understanding: Cat vs. Classifier #
 In this toy project, we aim to build a deep learning clssifier that predicts whether an image is cat or not. </br>
 
-<!-- <img src="images/cat.0.jpg" align="center">
-<img src="images/dog.0.jpg" align="right"> -->
+<!-- <img src="DL_Projects/images/cat.0.jpg" align="center">
+<img src="DL_Projects/images/dog.0.jpg" align="right"> -->
 
 
   Cat            |  Dog
